@@ -1,6 +1,8 @@
 # Emergent Properties of Foveated Perceptual Systems
-Code + Data for paper Emergent Properties of Foveated Perceptual Systems
 
+<img src="https://github.com/ArturoDeza/EmergentProperties/blob/main/Summary_Figure.png" width="1024">
+
+Code + Data for paper Emergent Properties of Foveated Perceptual Systems
 
 
 | Reference-Net | Foveation-Texture-Net | Uniform-Net | Foveation-Blur-Net |  
