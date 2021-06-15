@@ -42,3 +42,16 @@ Contains code to render the individual and aggregate losses (Training + Validati
 
 ### Render Learning Dynamics
 Contains code to render the individual and aggregate Validation Accuracy as a function of epoch across all runs and systems.
+
+If you found this code useful for your research, please cite (currently under review):
+
+```
+@misc{deza2021emergent,
+      title={Emergent Properties of Foveated Perceptual Systems}, 
+      author={Arturo Deza and Talia Konkle},
+      year={2021},
+      eprint={2006.07991},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
