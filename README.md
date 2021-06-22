@@ -47,6 +47,9 @@ Contains code to render the individual and aggregate losses (Training + Validati
 ### Render Learning Dynamics
 Contains code to render the individual and aggregate Validation Accuracy as a function of epoch across all runs and systems.
 
+Relevant code to generate a foveated-texture-based image:
+https://github.com/ArturoDeza/NeuroFovea_PyTorch
+
 If you found this code useful for your research, please cite (currently under review):
 
 ```
